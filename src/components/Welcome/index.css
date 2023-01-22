@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  text-align: center;
+  padding-top: 15%;
+}
+.heading {
+  font-size: 55px;
+  font-family: 'Bree Serif';
+  color: #f0bb03;
+}
+.para {
+  color: #ffffff;
+  font-size: 35px;
+}
+.button {
+  background-color: #ffffff;
+  padding: 15px;
+  border: 2px #ffffff;
+  border-radius: 5px;
+  color: #1e293b;
+  font-size: 18px;
+  font-style: italic;
+}
